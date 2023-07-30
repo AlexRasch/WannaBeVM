@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WannaBeVM", "WannaBeVM\WannaBeVM.csproj", "{388BDCFB-365B-4319-A9B4-C6BDD5DE055A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMachineTests", "VirtualMachineTests\VirtualMachineTests.csproj", "{67F616B3-6D58-4AE8-95F6-73A122AE0CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388BDCFB-365B-4319-A9B4-C6BDD5DE055A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388BDCFB-365B-4319-A9B4-C6BDD5DE055A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388BDCFB-365B-4319-A9B4-C6BDD5DE055A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388BDCFB-365B-4319-A9B4-C6BDD5DE055A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F616B3-6D58-4AE8-95F6-73A122AE0CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F616B3-6D58-4AE8-95F6-73A122AE0CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F616B3-6D58-4AE8-95F6-73A122AE0CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F616B3-6D58-4AE8-95F6-73A122AE0CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2561CE8-B323-44E6-A391-784790E5F4D3}
+	EndGlobalSection
+EndGlobal
